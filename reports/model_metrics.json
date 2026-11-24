@@ -1,0 +1,132 @@
+{
+  "dataset": {
+    "total_rows": 367,
+    "train_rows": 293,
+    "test_rows": 74,
+    "n_brands": 9,
+    "n_model_families": 62,
+    "year_min": 1995,
+    "year_max": 2027,
+    "fipe_price_min_brl": 6184.0,
+    "fipe_price_max_brl": 397700.0,
+    "fipe_price_mean_brl": 86648.06,
+    "market_price_mean_brl": 89043.05,
+    "mean_fipe_spread_pct": 2.77
+  },
+  "features": {
+    "numeric": [
+      "fipe_price_brl",
+      "model_year",
+      "vehicle_age",
+      "mileage_km",
+      "km_per_year",
+      "quality_score",
+      "engine_liters",
+      "has_laudo_cautelar"
+    ],
+    "categorical": [
+      "brand",
+      "body_segment",
+      "fuel_type",
+      "transmission",
+      "region_pr",
+      "liquidity_tier"
+    ],
+    "target": "market_asking_price"
+  },
+  "best_model": "GradientBoostingRegressor",
+  "best_model_holdout_metrics": {
+    "rmse_brl": 3693.81,
+    "mae_brl": 2423.96,
+    "r2": 0.99637,
+    "mape_pct": 2.725
+  },
+  "models": {
+    "LinearRegression": {
+      "cv_5fold": {
+        "rmse_brl_mean": 3538.65,
+        "rmse_brl_std": 898.51,
+        "mae_brl_mean": 2188.64,
+        "r2_mean": 0.99657,
+        "mape_pct_mean": 3.184
+      },
+      "holdout_test": {
+        "rmse_brl": 5934.62,
+        "mae_brl": 2556.65,
+        "r2": 0.99063,
+        "mape_pct": 3.293
+      }
+    },
+    "Ridge": {
+      "cv_5fold": {
+        "rmse_brl_mean": 4311.51,
+        "rmse_brl_std": 1014.01,
+        "mae_brl_mean": 2852.23,
+        "r2_mean": 0.9947,
+        "mape_pct_mean": 4.2
+      },
+      "holdout_test": {
+        "rmse_brl": 4967.12,
+        "mae_brl": 2647.43,
+        "r2": 0.99344,
+        "mape_pct": 3.891
+      }
+    },
+    "RandomForestRegressor": {
+      "cv_5fold": {
+        "rmse_brl_mean": 8203.5,
+        "rmse_brl_std": 3029.17,
+        "mae_brl_mean": 3965.42,
+        "r2_mean": 0.9829,
+        "mape_pct_mean": 4.417
+      },
+      "holdout_test": {
+        "rmse_brl": 4925.53,
+        "mae_brl": 3072.71,
+        "r2": 0.99355,
+        "mape_pct": 3.521
+      }
+    },
+    "GradientBoostingRegressor": {
+      "cv_5fold": {
+        "rmse_brl_mean": 6559.44,
+        "rmse_brl_std": 1609.89,
+        "mae_brl_mean": 3043.14,
+        "r2_mean": 0.98893,
+        "mape_pct_mean": 3.126
+      },
+      "holdout_test": {
+        "rmse_brl": 3693.81,
+        "mae_brl": 2423.96,
+        "r2": 0.99637,
+        "mape_pct": 2.725
+      }
+    }
+  },
+  "permutation_importance_holdout_rmse_brl": {
+    "fipe_price_brl": 85112.3889,
+    "quality_score": 968.8831,
+    "has_laudo_cautelar": 312.2117,
+    "km_per_year": 274.0374,
+    "region_pr": 86.6604,
+    "model_year": 56.4113,
+    "body_segment": 54.0386,
+    "vehicle_age": 46.4276,
+    "liquidity_tier": 24.4049,
+    "engine_liters": 6.7008,
+    "mileage_km": -5.2691,
+    "transmission": -13.0399,
+    "fuel_type": -70.9505,
+    "brand": -75.462
+  },
+  "artifacts": {
+    "model_path": "models/vehicle_price_model.joblib",
+    "predictions_path": "data/pricing_predictions.csv",
+    "figures": [
+      "reports/figures/price_distribution.png",
+      "reports/figures/depreciation_by_age.png",
+      "reports/figures/actual_vs_predicted.png",
+      "reports/figures/feature_importance.png"
+    ]
+  }
+}

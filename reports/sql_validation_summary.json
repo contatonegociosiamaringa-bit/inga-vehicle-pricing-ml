@@ -1,0 +1,374 @@
+{
+  "q1_brand_year_tier_summary": {
+    "row_count": 26,
+    "columns": [
+      "brand",
+      "faixa_ano",
+      "total_veiculos",
+      "preco_fipe_medio",
+      "preco_loja_medio",
+      "spread_medio_pct",
+      "km_medio",
+      "score_medio"
+    ],
+    "preview_rows": [
+      {
+        "brand": "Chevrolet",
+        "faixa_ano": "Seminovo (2022+)",
+        "total_veiculos": 18,
+        "preco_fipe_medio": 96959.28,
+        "preco_loja_medio": 99772.22,
+        "spread_medio_pct": 3.18,
+        "km_medio": 31872.0,
+        "score_medio": 89.1
+      },
+      {
+        "brand": "Chevrolet",
+        "faixa_ano": "Intermediario (2016-2021)",
+        "total_veiculos": 14,
+        "preco_fipe_medio": 62813.79,
+        "preco_loja_medio": 64535.71,
+        "spread_medio_pct": 2.18,
+        "km_medio": 96043.0,
+        "score_medio": 89.9
+      },
+      {
+        "brand": "Chevrolet",
+        "faixa_ano": "Veterano (<=2015)",
+        "total_veiculos": 25,
+        "preco_fipe_medio": 43912.32,
+        "preco_loja_medio": 44768.0,
+        "spread_medio_pct": 2.83,
+        "km_medio": 159524.0,
+        "score_medio": 85.6
+      },
+      {
+        "brand": "Dodge",
+        "faixa_ano": "Veterano (<=2015)",
+        "total_veiculos": 17,
+        "preco_fipe_medio": 77558.76,
+        "preco_loja_medio": 77682.35,
+        "spread_medio_pct": 0.13,
+        "km_medio": 263476.0,
+        "score_medio": 83.6
+      },
+      {
+        "brand": "Dodge",
+        "faixa_ano": "Intermediario (2016-2021)",
+        "total_veiculos": 1,
+        "preco_fipe_medio": 65009.0,
+        "preco_loja_medio": 66300.0,
+        "spread_medio_pct": 1.99,
+        "km_medio": 74900.0,
+        "score_medio": 95.0
+      }
+    ]
+  },
+  "q2_annual_depreciation_by_brand": {
+    "row_count": 9,
+    "columns": [
+      "brand",
+      "transicoes_anuais",
+      "variacao_media_anual_pct",
+      "menor_fipe_medio",
+      "maior_fipe_medio"
+    ],
+    "preview_rows": [
+      {
+        "brand": "Ford",
+        "transicoes_anuais": 23,
+        "variacao_media_anual_pct": 14.82,
+        "menor_fipe_medio": 21889.0,
+        "maior_fipe_medio": 176371.0
+      },
+      {
+        "brand": "Jeep",
+        "transicoes_anuais": 13,
+        "variacao_media_anual_pct": 14.53,
+        "menor_fipe_medio": 80354.5,
+        "maior_fipe_medio": 225774.0
+      },
+      {
+        "brand": "Toyota",
+        "transicoes_anuais": 19,
+        "variacao_media_anual_pct": 14.0,
+        "menor_fipe_medio": 45205.0,
+        "maior_fipe_medio": 287302.67
+      },
+      {
+        "brand": "Volkswagen",
+        "transicoes_anuais": 21,
+        "variacao_media_anual_pct": 13.71,
+        "menor_fipe_medio": 18272.0,
+        "maior_fipe_medio": 148689.25
+      },
+      {
+        "brand": "Chevrolet",
+        "transicoes_anuais": 19,
+        "variacao_media_anual_pct": 12.63,
+        "menor_fipe_medio": 16922.0,
+        "maior_fipe_medio": 149678.5
+      }
+    ]
+  },
+  "q3_regional_spread_maringa_vs_others": {
+    "row_count": 10,
+    "columns": [
+      "region_pr",
+      "status_laudo",
+      "total_anuncios",
+      "fipe_medio_brl",
+      "loja_medio_brl",
+      "spread_medio_brl",
+      "spread_medio_pct",
+      "score_medio"
+    ],
+    "preview_rows": [
+      {
+        "region_pr": "Maringa - PR",
+        "status_laudo": "Com Laudo",
+        "total_anuncios": 117,
+        "fipe_medio_brl": 99023.6,
+        "loja_medio_brl": 104139.32,
+        "spread_medio_brl": 5115.72,
+        "spread_medio_pct": 5.25,
+        "score_medio": 89.5
+      },
+      {
+        "region_pr": "Londrina - PR",
+        "status_laudo": "Com Laudo",
+        "total_anuncios": 42,
+        "fipe_medio_brl": 93178.69,
+        "loja_medio_brl": 97442.86,
+        "spread_medio_brl": 4264.17,
+        "spread_medio_pct": 5.04,
+        "score_medio": 91.2
+      },
+      {
+        "region_pr": "Curitiba - PR",
+        "status_laudo": "Com Laudo",
+        "total_anuncios": 63,
+        "fipe_medio_brl": 85912.29,
+        "loja_medio_brl": 89569.84,
+        "spread_medio_brl": 3657.56,
+        "spread_medio_pct": 4.79,
+        "score_medio": 90.6
+      },
+      {
+        "region_pr": "Cascavel - PR",
+        "status_laudo": "Com Laudo",
+        "total_anuncios": 26,
+        "fipe_medio_brl": 86425.38,
+        "loja_medio_brl": 89057.69,
+        "spread_medio_brl": 2632.31,
+        "spread_medio_pct": 3.35,
+        "score_medio": 89.6
+      },
+      {
+        "region_pr": "Outras Pracas (SP/SC)",
+        "status_laudo": "Com Laudo",
+        "total_anuncios": 31,
+        "fipe_medio_brl": 91605.55,
+        "loja_medio_brl": 92887.1,
+        "spread_medio_brl": 1281.55,
+        "spread_medio_pct": 2.39,
+        "score_medio": 89.5
+      }
+    ]
+  },
+  "q4_liquidity_ranking_and_moving_avg": {
+    "row_count": 27,
+    "columns": [
+      "brand",
+      "rank_qualidade_marca",
+      "model",
+      "model_year",
+      "region_pr",
+      "quality_score",
+      "fipe_spread_pct",
+      "fipe_price_brl",
+      "market_asking_price",
+      "media_movel_fipe_3_registros"
+    ],
+    "preview_rows": [
+      {
+        "brand": "Chevrolet",
+        "rank_qualidade_marca": 1,
+        "model": "ONIX HATCH LTZ 1.0 12V TB Flex 5p Aut.",
+        "model_year": 2022,
+        "region_pr": "Londrina - PR",
+        "quality_score": 98,
+        "fipe_spread_pct": 6.06,
+        "fipe_price_brl": 69675,
+        "market_asking_price": 73900,
+        "media_movel_fipe_3_registros": 65979.67
+      },
+      {
+        "brand": "Chevrolet",
+        "rank_qualidade_marca": 2,
+        "model": "Celta Life/ LS 1.0 MPFI 8V FlexPower 3p",
+        "model_year": 2014,
+        "region_pr": "Londrina - PR",
+        "quality_score": 98,
+        "fipe_spread_pct": 8.94,
+        "fipe_price_brl": 26252,
+        "market_asking_price": 28600,
+        "media_movel_fipe_3_registros": 43357.67
+      },
+      {
+        "brand": "Chevrolet",
+        "rank_qualidade_marca": 3,
+        "model": "TRACKER LTZ 1.0 Turbo 12V Flex Aut.",
+        "model_year": 2021,
+        "region_pr": "Maringa - PR",
+        "quality_score": 98,
+        "fipe_spread_pct": 10.62,
+        "fipe_price_brl": 85968,
+        "market_asking_price": 95100,
+        "media_movel_fipe_3_registros": 72639.33
+      },
+      {
+        "brand": "Dodge",
+        "rank_qualidade_marca": 1,
+        "model": "JOURNEY SXT 3.6 V6 Aut.",
+        "model_year": 2015,
+        "region_pr": "Maringa - PR",
+        "quality_score": 97,
+        "fipe_spread_pct": 2.94,
+        "fipe_price_brl": 53719,
+        "market_asking_price": 55300,
+        "media_movel_fipe_3_registros": 60717.0
+      },
+      {
+        "brand": "Dodge",
+        "rank_qualidade_marca": 2,
+        "model": "JOURNEY RT 3.6 AWD V6 Aut.",
+        "model_year": 2015,
+        "region_pr": "Maringa - PR",
+        "quality_score": 96,
+        "fipe_spread_pct": 4.85,
+        "fipe_price_brl": 63423,
+        "market_asking_price": 66500,
+        "media_movel_fipe_3_registros": 56112.67
+      }
+    ]
+  },
+  "q5_mileage_regime_impact": {
+    "row_count": 3,
+    "columns": [
+      "regime_uso",
+      "qtd_veiculos",
+      "idade_media_anos",
+      "km_anual_medio",
+      "score_medio",
+      "spread_medio_brl",
+      "spread_medio_pct"
+    ],
+    "preview_rows": [
+      {
+        "regime_uso": "1. Baixa (<9k km/ano)",
+        "qtd_veiculos": 55,
+        "idade_media_anos": 10.2,
+        "km_anual_medio": 6776.0,
+        "score_medio": 91.2,
+        "spread_medio_brl": 5150.02,
+        "spread_medio_pct": 6.54
+      },
+      {
+        "regime_uso": "2. Moderada (9k-15k km/ano)",
+        "qtd_veiculos": 207,
+        "idade_media_anos": 10.1,
+        "km_anual_medio": 12237.0,
+        "score_medio": 89.5,
+        "spread_medio_brl": 3343.45,
+        "spread_medio_pct": 3.78
+      },
+      {
+        "regime_uso": "3. Intensa (>15k km/ano)",
+        "qtd_veiculos": 105,
+        "idade_media_anos": 8.6,
+        "km_anual_medio": 17578.0,
+        "score_medio": 79.3,
+        "spread_medio_brl": -917.94,
+        "spread_medio_pct": -1.19
+      }
+    ]
+  },
+  "q6_ml_prediction_error_audit": {
+    "row_count": 10,
+    "columns": [
+      "model_name",
+      "split_type",
+      "body_segment",
+      "n_amostras",
+      "preco_real_medio",
+      "preco_predito_medio",
+      "mae_brl",
+      "mape_pct",
+      "vies_medio_brl",
+      "acerto_dentro_5pct"
+    ],
+    "preview_rows": [
+      {
+        "model_name": "GradientBoostingRegressor",
+        "split_type": "train",
+        "body_segment": "Minivan",
+        "n_amostras": 7,
+        "preco_real_medio": 56042.86,
+        "preco_predito_medio": 56150.41,
+        "mae_brl": 219.73,
+        "mape_pct": 0.37,
+        "vies_medio_brl": -107.55,
+        "acerto_dentro_5pct": 100.0
+      },
+      {
+        "model_name": "GradientBoostingRegressor",
+        "split_type": "train",
+        "body_segment": "Hatch",
+        "n_amostras": 82,
+        "preco_real_medio": 53563.41,
+        "preco_predito_medio": 53543.05,
+        "mae_brl": 243.28,
+        "mape_pct": 0.48,
+        "vies_medio_brl": 20.37,
+        "acerto_dentro_5pct": 100.0
+      },
+      {
+        "model_name": "GradientBoostingRegressor",
+        "split_type": "train",
+        "body_segment": "Sedan",
+        "n_amostras": 60,
+        "preco_real_medio": 89743.33,
+        "preco_predito_medio": 89759.55,
+        "mae_brl": 283.33,
+        "mape_pct": 0.55,
+        "vies_medio_brl": -16.22,
+        "acerto_dentro_5pct": 100.0
+      },
+      {
+        "model_name": "GradientBoostingRegressor",
+        "split_type": "train",
+        "body_segment": "Pickup",
+        "n_amostras": 43,
+        "preco_real_medio": 112734.88,
+        "preco_predito_medio": 112716.42,
+        "mae_brl": 307.99,
+        "mape_pct": 0.4,
+        "vies_medio_brl": 18.46,
+        "acerto_dentro_5pct": 100.0
+      },
+      {
+        "model_name": "GradientBoostingRegressor",
+        "split_type": "train",
+        "body_segment": "SUV",
+        "n_amostras": 101,
+        "preco_real_medio": 110275.25,
+        "preco_predito_medio": 110274.39,
+        "mae_brl": 314.65,
+        "mape_pct": 0.39,
+        "vies_medio_brl": 0.85,
+        "acerto_dentro_5pct": 100.0
+      }
+    ]
+  }
+}

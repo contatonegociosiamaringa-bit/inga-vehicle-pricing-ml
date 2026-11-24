@@ -1,0 +1,368 @@
+vehicle_id,fipe_code,brand_raw,brand,model,model_family,model_year,fuel_type,fuel_acronym,fipe_price_brl,reference_month,source_api
+FIPE-0051705-2002-G,005170-5,VW - VolksWagen,Volkswagen,Golf GTi 1.8 Mi 180/193cv Turbo 4p Tip.,Golf,2002,Gasolina,G,36432.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0051705-2003-G,005170-5,VW - VolksWagen,Volkswagen,Golf GTi 1.8 Mi 180/193cv Turbo 4p Tip.,Golf,2003,Gasolina,G,45868.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0051705-2004-G,005170-5,VW - VolksWagen,Volkswagen,Golf GTi 1.8 Mi 180/193cv Turbo 4p Tip.,Golf,2004,Gasolina,G,47015.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0051705-2006-G,005170-5,VW - VolksWagen,Volkswagen,Golf GTi 1.8 Mi 180/193cv Turbo 4p Tip.,Golf,2006,Gasolina,G,54012.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0051705-2007-G,005170-5,VW - VolksWagen,Volkswagen,Golf GTi 1.8 Mi 180/193cv Turbo 4p Tip.,Golf,2007,Gasolina,G,55363.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0051705-2009-G,005170-5,VW - VolksWagen,Volkswagen,Golf GTi 1.8 Mi 180/193cv Turbo 4p Tip.,Golf,2009,Gasolina,G,67854.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0054763-2018-F,005476-3,VW - VolksWagen,Volkswagen,Polo Highline 200 TSI 1.0 Flex 12V Aut.,Polo,2018,Flex,F,75551.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0054763-2019-F,005476-3,VW - VolksWagen,Volkswagen,Polo Highline 200 TSI 1.0 Flex 12V Aut.,Polo,2019,Flex,F,79326.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0054763-2020-F,005476-3,VW - VolksWagen,Volkswagen,Polo Highline 200 TSI 1.0 Flex 12V Aut.,Polo,2020,Flex,F,81694.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0054763-2021-F,005476-3,VW - VolksWagen,Volkswagen,Polo Highline 200 TSI 1.0 Flex 12V Aut.,Polo,2021,Flex,F,83737.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0054763-2022-F,005476-3,VW - VolksWagen,Volkswagen,Polo Highline 200 TSI 1.0 Flex 12V Aut.,Polo,2022,Flex,F,85831.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0054844-2018-F,005484-4,VW - VolksWagen,Volkswagen,VIRTUS Highline 200 TSI 1.0 Flex 12V Aut,Virtus,2018,Flex,F,75878.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0054844-2019-F,005484-4,VW - VolksWagen,Volkswagen,VIRTUS Highline 200 TSI 1.0 Flex 12V Aut,Virtus,2019,Flex,F,77775.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0054844-2021-F,005484-4,VW - VolksWagen,Volkswagen,VIRTUS Highline 200 TSI 1.0 Flex 12V Aut,Virtus,2021,Flex,F,86283.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0054844-2022-F,005484-4,VW - VolksWagen,Volkswagen,VIRTUS Highline 200 TSI 1.0 Flex 12V Aut,Virtus,2022,Flex,F,94849.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0054844-2024-F,005484-4,VW - VolksWagen,Volkswagen,VIRTUS Highline 200 TSI 1.0 Flex 12V Aut,Virtus,2024,Flex,F,107762.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0054844-2026-F,005484-4,VW - VolksWagen,Volkswagen,VIRTUS Highline 200 TSI 1.0 Flex 12V Aut,Virtus,2026,Flex,F,125096.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0055522-2026-F,005552-2,VW - VolksWagen,Volkswagen,T-Cross Ext. 250 TSI 1.4 Flex 16V 5p Aut,T-Cross,2026,Flex,F,157667.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0055522-2027-F,005552-2,VW - VolksWagen,Volkswagen,T-Cross Ext. 250 TSI 1.4 Flex 16V 5p Aut,T-Cross,2027,Flex,F,171029.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0055263-2021-F,005526-3,VW - VolksWagen,Volkswagen,Nivus Highline 1.0 200 TSI Flex Aut.,Nivus,2021,Flex,F,100661.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0055263-2022-F,005526-3,VW - VolksWagen,Volkswagen,Nivus Highline 1.0 200 TSI Flex Aut.,Nivus,2022,Flex,F,104725.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0055263-2023-F,005526-3,VW - VolksWagen,Volkswagen,Nivus Highline 1.0 200 TSI Flex Aut.,Nivus,2023,Flex,F,108878.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0055263-2024-F,005526-3,VW - VolksWagen,Volkswagen,Nivus Highline 1.0 200 TSI Flex Aut.,Nivus,2024,Flex,F,112950.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0055263-2025-F,005526-3,VW - VolksWagen,Volkswagen,Nivus Highline 1.0 200 TSI Flex Aut.,Nivus,2025,Flex,F,125633.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0055263-2027-F,005526-3,VW - VolksWagen,Volkswagen,Nivus Highline 1.0 200 TSI Flex Aut.,Nivus,2027,Flex,F,143919.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0055387-2023-F,005538-7,VW - VolksWagen,Volkswagen,Saveiro Robust 1.6 Total Flex 16V,Saveiro,2023,Flex,F,65851.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0055387-2024-F,005538-7,VW - VolksWagen,Volkswagen,Saveiro Robust 1.6 Total Flex 16V,Saveiro,2024,Flex,F,73030.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0055387-2025-F,005538-7,VW - VolksWagen,Volkswagen,Saveiro Robust 1.6 Total Flex 16V,Saveiro,2025,Flex,F,79161.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0055387-2026-F,005538-7,VW - VolksWagen,Volkswagen,Saveiro Robust 1.6 Total Flex 16V,Saveiro,2026,Flex,F,83876.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0055387-2027-F,005538-7,VW - VolksWagen,Volkswagen,Saveiro Robust 1.6 Total Flex 16V,Saveiro,2027,Flex,F,93035.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0055174-2019-G,005517-4,VW - VolksWagen,Volkswagen,JETTA GLI 350 TSI 2.0 16V 4p Aut.,Jetta,2019,Gasolina,G,142453.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0055174-2020-G,005517-4,VW - VolksWagen,Volkswagen,JETTA GLI 350 TSI 2.0 16V 4p Aut.,Jetta,2020,Gasolina,G,151946.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0055174-2021-G,005517-4,VW - VolksWagen,Volkswagen,JETTA GLI 350 TSI 2.0 16V 4p Aut.,Jetta,2021,Gasolina,G,155745.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0055174-2022-G,005517-4,VW - VolksWagen,Volkswagen,JETTA GLI 350 TSI 2.0 16V 4p Aut.,Jetta,2022,Gasolina,G,171737.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0055174-2023-G,005517-4,VW - VolksWagen,Volkswagen,JETTA GLI 350 TSI 2.0 16V 4p Aut.,Jetta,2023,Gasolina,G,178205.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0055174-2026-G,005517-4,VW - VolksWagen,Volkswagen,JETTA GLI 350 TSI 2.0 16V 4p Aut.,Jetta,2026,Gasolina,G,228118.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0052060-2004-G,005206-0,VW - VolksWagen,Volkswagen,Fox Plus 1.0Mi/ 1.0Mi Total Flex 8V 4p,Fox,2004,Gasolina,G,16568.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0052060-2005-G,005206-0,VW - VolksWagen,Volkswagen,Fox Plus 1.0Mi/ 1.0Mi Total Flex 8V 4p,Fox,2005,Gasolina,G,18272.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0052060-2006-G,005206-0,VW - VolksWagen,Volkswagen,Fox Plus 1.0Mi/ 1.0Mi Total Flex 8V 4p,Fox,2006,Gasolina,G,19884.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0052060-2007-G,005206-0,VW - VolksWagen,Volkswagen,Fox Plus 1.0Mi/ 1.0Mi Total Flex 8V 4p,Fox,2007,Gasolina,G,20754.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0052060-2008-G,005206-0,VW - VolksWagen,Volkswagen,Fox Plus 1.0Mi/ 1.0Mi Total Flex 8V 4p,Fox,2008,Gasolina,G,21834.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0052060-2010-G,005206-0,VW - VolksWagen,Volkswagen,Fox Plus 1.0Mi/ 1.0Mi Total Flex 8V 4p,Fox,2010,Gasolina,G,27544.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0054178-2015-F,005417-8,VW - VolksWagen,Volkswagen,up! cross I MOTION 1.0 T.Flex 12V 5p,Up!,2015,Flex,F,41697.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0054178-2016-F,005417-8,VW - VolksWagen,Volkswagen,up! cross I MOTION 1.0 T.Flex 12V 5p,Up!,2016,Flex,F,49652.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0054178-2017-F,005417-8,VW - VolksWagen,Volkswagen,up! cross I MOTION 1.0 T.Flex 12V 5p,Up!,2017,Flex,F,52754.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0054305-2015-G,005430-5,VW - VolksWagen,Volkswagen,Golf Variant Highline 1.4 TSI Aut.,Golf,2015,Gasolina,G,80611.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0054305-2016-G,005430-5,VW - VolksWagen,Volkswagen,Golf Variant Highline 1.4 TSI Aut.,Golf,2016,Gasolina,G,82627.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0054658-2017-F,005465-8,VW - VolksWagen,Volkswagen,Golf Variant Highli. 1.4 TSI T.Flex Aut,Golf,2017,Flex,F,90039.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0045152-2020-F,004515-2,GM - Chevrolet,Chevrolet,ONIX HATCH LTZ 1.0 12V TB Flex 5p Aut.,Onix,2020,Flex,F,64805.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0045152-2021-F,004515-2,GM - Chevrolet,Chevrolet,ONIX HATCH LTZ 1.0 12V TB Flex 5p Aut.,Onix,2021,Flex,F,67030.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0045152-2022-F,004515-2,GM - Chevrolet,Chevrolet,ONIX HATCH LTZ 1.0 12V TB Flex 5p Aut.,Onix,2022,Flex,F,69675.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0045152-2023-F,004515-2,GM - Chevrolet,Chevrolet,ONIX HATCH LTZ 1.0 12V TB Flex 5p Aut.,Onix,2023,Flex,F,77123.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0045152-2024-F,004515-2,GM - Chevrolet,Chevrolet,ONIX HATCH LTZ 1.0 12V TB Flex 5p Aut.,Onix,2024,Flex,F,82837.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0045152-2026-F,004515-2,GM - Chevrolet,Chevrolet,ONIX HATCH LTZ 1.0 12V TB Flex 5p Aut.,Onix,2026,Flex,F,101807.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0044350-2013-F,004435-0,GM - Chevrolet,Chevrolet,SPIN LS 1.8 8V Econo.Flex 5p Mec.,Spin,2013,Flex,F,30270.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0044350-2016-F,004435-0,GM - Chevrolet,Chevrolet,SPIN LS 1.8 8V Econo.Flex 5p Mec.,Spin,2016,Flex,F,39156.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0044350-2018-F,004435-0,GM - Chevrolet,Chevrolet,SPIN LS 1.8 8V Econo.Flex 5p Mec.,Spin,2018,Flex,F,46357.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0044350-2020-F,004435-0,GM - Chevrolet,Chevrolet,SPIN LS 1.8 8V Econo.Flex 5p Mec.,Spin,2020,Flex,F,52611.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0044350-2022-F,004435-0,GM - Chevrolet,Chevrolet,SPIN LS 1.8 8V Econo.Flex 5p Mec.,Spin,2022,Flex,F,55276.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0044350-2024-F,004435-0,GM - Chevrolet,Chevrolet,SPIN LS 1.8 8V Econo.Flex 5p Mec.,Spin,2024,Flex,F,78718.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0045322-2021-F,004532-2,GM - Chevrolet,Chevrolet,TRACKER LTZ 1.0 Turbo 12V Flex Aut.,Tracker,2021,Flex,F,85968.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0045322-2022-F,004532-2,GM - Chevrolet,Chevrolet,TRACKER LTZ 1.0 Turbo 12V Flex Aut.,Tracker,2022,Flex,F,88118.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0045322-2023-F,004532-2,GM - Chevrolet,Chevrolet,TRACKER LTZ 1.0 Turbo 12V Flex Aut.,Tracker,2023,Flex,F,91774.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0045322-2024-F,004532-2,GM - Chevrolet,Chevrolet,TRACKER LTZ 1.0 Turbo 12V Flex Aut.,Tracker,2024,Flex,F,102877.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0045322-2025-F,004532-2,GM - Chevrolet,Chevrolet,TRACKER LTZ 1.0 Turbo 12V Flex Aut.,Tracker,2025,Flex,F,109909.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0045322-2027-F,004532-2,GM - Chevrolet,Chevrolet,TRACKER LTZ 1.0 Turbo 12V Flex Aut.,Tracker,2027,Flex,F,142108.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0043796-2012-F,004379-6,GM - Chevrolet,Chevrolet,CRUZE LT 1.8 16V FlexPower 4p Mec.,Cruze,2012,Flex,F,50676.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0043796-2013-F,004379-6,GM - Chevrolet,Chevrolet,CRUZE LT 1.8 16V FlexPower 4p Mec.,Cruze,2013,Flex,F,53201.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0043796-2014-F,004379-6,GM - Chevrolet,Chevrolet,CRUZE LT 1.8 16V FlexPower 4p Mec.,Cruze,2014,Flex,F,55489.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0043796-2015-F,004379-6,GM - Chevrolet,Chevrolet,CRUZE LT 1.8 16V FlexPower 4p Mec.,Cruze,2015,Flex,F,61020.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0043796-2016-F,004379-6,GM - Chevrolet,Chevrolet,CRUZE LT 1.8 16V FlexPower 4p Mec.,Cruze,2016,Flex,F,66378.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0044326-2013-F,004432-6,GM - Chevrolet,Chevrolet,PRISMA Sed. LT 1.0 8V FlexPower 4p,Prisma,2013,Flex,F,40508.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0044326-2014-F,004432-6,GM - Chevrolet,Chevrolet,PRISMA Sed. LT 1.0 8V FlexPower 4p,Prisma,2014,Flex,F,42173.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0044326-2015-F,004432-6,GM - Chevrolet,Chevrolet,PRISMA Sed. LT 1.0 8V FlexPower 4p,Prisma,2015,Flex,F,43228.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0044326-2016-F,004432-6,GM - Chevrolet,Chevrolet,PRISMA Sed. LT 1.0 8V FlexPower 4p,Prisma,2016,Flex,F,44739.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0044326-2017-F,004432-6,GM - Chevrolet,Chevrolet,PRISMA Sed. LT 1.0 8V FlexPower 4p,Prisma,2017,Flex,F,46063.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0043885-2012-F,004388-5,GM - Chevrolet,Chevrolet,S10 Pick-Up LS 2.4 F.Power 4x2 CD,S10,2012,Flex,F,68946.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0043885-2013-F,004388-5,GM - Chevrolet,Chevrolet,S10 Pick-Up LS 2.4 F.Power 4x2 CD,S10,2013,Flex,F,84665.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0043885-2014-F,004388-5,GM - Chevrolet,Chevrolet,S10 Pick-Up LS 2.4 F.Power 4x2 CD,S10,2014,Flex,F,88333.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0043885-2015-F,004388-5,GM - Chevrolet,Chevrolet,S10 Pick-Up LS 2.4 F.Power 4x2 CD,S10,2015,Flex,F,91024.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0043885-2016-F,004388-5,GM - Chevrolet,Chevrolet,S10 Pick-Up LS 2.4 F.Power 4x2 CD,S10,2016,Flex,F,93835.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0043834-2011-F,004383-4,GM - Chevrolet,Chevrolet,COBALT LS 1.4 8V FlexPower 4p,Cobalt,2011,Flex,F,30254.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0043834-2012-F,004383-4,GM - Chevrolet,Chevrolet,COBALT LS 1.4 8V FlexPower 4p,Cobalt,2012,Flex,F,34612.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0043834-2013-F,004383-4,GM - Chevrolet,Chevrolet,COBALT LS 1.4 8V FlexPower 4p,Cobalt,2013,Flex,F,36236.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0043834-2014-F,004383-4,GM - Chevrolet,Chevrolet,COBALT LS 1.4 8V FlexPower 4p,Cobalt,2014,Flex,F,37142.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0043834-2015-F,004383-4,GM - Chevrolet,Chevrolet,COBALT LS 1.4 8V FlexPower 4p,Cobalt,2015,Flex,F,41570.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0044229-2013-F,004422-9,GM - Chevrolet,Chevrolet,MONTANA LS COMBO 1.4 8V ECONOFLEX 2p,Montana,2013,Flex,F,41757.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0044229-2014-F,004422-9,GM - Chevrolet,Chevrolet,MONTANA LS COMBO 1.4 8V ECONOFLEX 2p,Montana,2014,Flex,F,42801.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0043184-2006-F,004318-4,GM - Chevrolet,Chevrolet,Celta Life/ LS 1.0 MPFI 8V FlexPower 3p,Celta,2006,Flex,F,15043.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0043184-2007-F,004318-4,GM - Chevrolet,Chevrolet,Celta Life/ LS 1.0 MPFI 8V FlexPower 3p,Celta,2007,Flex,F,16922.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0043184-2009-F,004318-4,GM - Chevrolet,Chevrolet,Celta Life/ LS 1.0 MPFI 8V FlexPower 3p,Celta,2009,Flex,F,20055.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0043184-2010-F,004318-4,GM - Chevrolet,Chevrolet,Celta Life/ LS 1.0 MPFI 8V FlexPower 3p,Celta,2010,Flex,F,21197.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0043184-2012-F,004318-4,GM - Chevrolet,Chevrolet,Celta Life/ LS 1.0 MPFI 8V FlexPower 3p,Celta,2012,Flex,F,24434.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0043184-2014-F,004318-4,GM - Chevrolet,Chevrolet,Celta Life/ LS 1.0 MPFI 8V FlexPower 3p,Celta,2014,Flex,F,26252.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0045039-2020-F,004503-9,GM - Chevrolet,Chevrolet,ONIX SEDAN Plus LTZ 1.0 12V TB Flex Mec.,Onix,2020,Flex,F,63336.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0045039-2021-F,004503-9,GM - Chevrolet,Chevrolet,ONIX SEDAN Plus LTZ 1.0 12V TB Flex Mec.,Onix,2021,Flex,F,64920.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0045039-2022-F,004503-9,GM - Chevrolet,Chevrolet,ONIX SEDAN Plus LTZ 1.0 12V TB Flex Mec.,Onix,2022,Flex,F,67451.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0045039-2023-F,004503-9,GM - Chevrolet,Chevrolet,ONIX SEDAN Plus LTZ 1.0 12V TB Flex Mec.,Onix,2023,Flex,F,71001.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0044954-2020-F,004495-4,GM - Chevrolet,Chevrolet,SPIN PREMIER 1.8 8V Econo.Flex 5p Mec.,Spin,2020,Flex,F,71207.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0044954-2021-F,004495-4,GM - Chevrolet,Chevrolet,SPIN PREMIER 1.8 8V Econo.Flex 5p Mec.,Spin,2021,Flex,F,72988.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0044954-2022-F,004495-4,GM - Chevrolet,Chevrolet,SPIN PREMIER 1.8 8V Econo.Flex 5p Mec.,Spin,2022,Flex,F,75809.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0045446-2024-F,004544-6,GM - Chevrolet,Chevrolet,TRACKER RS 1.2 Turbo 12V Flex Aut.,Tracker,2024,Flex,F,110415.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0045446-2025-F,004544-6,GM - Chevrolet,Chevrolet,TRACKER RS 1.2 Turbo 12V Flex Aut.,Tracker,2025,Flex,F,121905.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0045446-2026-F,004544-6,GM - Chevrolet,Chevrolet,TRACKER RS 1.2 Turbo 12V Flex Aut.,Tracker,2026,Flex,F,141215.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0045446-2027-F,004544-6,GM - Chevrolet,Chevrolet,TRACKER RS 1.2 Turbo 12V Flex Aut.,Tracker,2027,Flex,F,157249.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0015768-2025-F,001576-8,Fiat,Fiat,ARGO ENDURANCE 1.3 8V Flex,Argo,2025,Flex,F,79329.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0015172-2019-F,001517-2,Fiat,Fiat,CRONOS DRIVE 1.8 16V Flex Aut.,Cronos,2019,Flex,F,64741.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0015172-2020-F,001517-2,Fiat,Fiat,CRONOS DRIVE 1.8 16V Flex Aut.,Cronos,2020,Flex,F,67433.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0015172-2021-F,001517-2,Fiat,Fiat,CRONOS DRIVE 1.8 16V Flex Aut.,Cronos,2021,Flex,F,73323.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0014613-2017-F,001461-3,Fiat,Fiat,MOBI LIKE 1.0 Fire Flex 5p.,Mobi,2017,Flex,F,41393.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0014613-2019-F,001461-3,Fiat,Fiat,MOBI LIKE 1.0 Fire Flex 5p.,Mobi,2019,Flex,F,43489.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0014613-2021-F,001461-3,Fiat,Fiat,MOBI LIKE 1.0 Fire Flex 5p.,Mobi,2021,Flex,F,46534.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0014613-2023-F,001461-3,Fiat,Fiat,MOBI LIKE 1.0 Fire Flex 5p.,Mobi,2023,Flex,F,52453.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0014613-2025-F,001461-3,Fiat,Fiat,MOBI LIKE 1.0 Fire Flex 5p.,Mobi,2025,Flex,F,61231.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0014613-2027-F,001461-3,Fiat,Fiat,MOBI LIKE 1.0 Fire Flex 5p.,Mobi,2027,Flex,F,71476.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0015709-2024-F,001570-9,Fiat,Fiat,Strada Ranch 1.0 Flex Turbo CD Aut.,Strada,2024,Flex,F,116743.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0015709-2025-F,001570-9,Fiat,Fiat,Strada Ranch 1.0 Flex Turbo CD Aut.,Strada,2025,Flex,F,120228.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0015709-2026-F,001570-9,Fiat,Fiat,Strada Ranch 1.0 Flex Turbo CD Aut.,Strada,2026,Flex,F,130742.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0015709-2027-F,001570-9,Fiat,Fiat,Strada Ranch 1.0 Flex Turbo CD Aut.,Strada,2027,Flex,F,136641.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0014834-2017-F,001483-4,Fiat,Fiat,Toro Opening Ed. Plus 1.8 16V Flex Aut.,Toro,2017,Flex,F,81142.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0015440-2022-F,001544-0,Fiat,Fiat,PULSE DRIVE 1.3 8V Flex Aut.,Pulse,2022,Flex,F,83186.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0015440-2023-F,001544-0,Fiat,Fiat,PULSE DRIVE 1.3 8V Flex Aut.,Pulse,2023,Flex,F,85671.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0015440-2024-F,001544-0,Fiat,Fiat,PULSE DRIVE 1.3 8V Flex Aut.,Pulse,2024,Flex,F,88725.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0015440-2025-F,001544-0,Fiat,Fiat,PULSE DRIVE 1.3 8V Flex Aut.,Pulse,2025,Flex,F,92657.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0015440-2026-F,001544-0,Fiat,Fiat,PULSE DRIVE 1.3 8V Flex Aut.,Pulse,2026,Flex,F,99616.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0015440-2027-F,001544-0,Fiat,Fiat,PULSE DRIVE 1.3 8V Flex Aut.,Pulse,2027,Flex,F,104201.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0015571-2023-F,001557-1,Fiat,Fiat,Fastback Impetus 1.0 200 T. Flex Aut,Fastback,2023,Flex,F,104357.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0015571-2024-F,001557-1,Fiat,Fiat,Fastback Impetus 1.0 200 T. Flex Aut,Fastback,2024,Flex,F,109368.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0015571-2025-F,001557-1,Fiat,Fiat,Fastback Impetus 1.0 200 T. Flex Aut,Fastback,2025,Flex,F,113664.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0012106-2004-F,001210-6,Fiat,Fiat,Palio HLX 1.8 mpi Flex 8V 4p,Palio,2004,Flex,F,21235.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0012106-2005-F,001210-6,Fiat,Fiat,Palio HLX 1.8 mpi Flex 8V 4p,Palio,2005,Flex,F,21965.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0012106-2006-F,001210-6,Fiat,Fiat,Palio HLX 1.8 mpi Flex 8V 4p,Palio,2006,Flex,F,24853.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0012106-2007-F,001210-6,Fiat,Fiat,Palio HLX 1.8 mpi Flex 8V 4p,Palio,2007,Flex,F,25475.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0011819-2003-G,001181-9,Fiat,Fiat,Stilo 1.8/ 1.8 SP/ Connect 16V 122cv 5p,Stilo,2003,Gasolina,G,14119.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0011819-2004-G,001181-9,Fiat,Fiat,Stilo 1.8/ 1.8 SP/ Connect 16V 122cv 5p,Stilo,2004,Gasolina,G,14863.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0011819-2005-G,001181-9,Fiat,Fiat,Stilo 1.8/ 1.8 SP/ Connect 16V 122cv 5p,Stilo,2005,Gasolina,G,19474.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0011819-2006-G,001181-9,Fiat,Fiat,Stilo 1.8/ 1.8 SP/ Connect 16V 122cv 5p,Stilo,2006,Gasolina,G,21744.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0011819-2007-G,001181-9,Fiat,Fiat,Stilo 1.8/ 1.8 SP/ Connect 16V 122cv 5p,Stilo,2007,Gasolina,G,26615.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0013463-2012-F,001346-3,Fiat,Fiat,UNO WAY Celeb. 1.0 EVO Fire Flex 8V 2p,Uno,2012,Flex,F,27853.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0015245-2020-F,001524-5,Fiat,Fiat,ARGO TREKKING 1.8 16V Flex Aut.,Argo,2020,Flex,F,69189.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0015245-2021-F,001524-5,Fiat,Fiat,ARGO TREKKING 1.8 16V Flex Aut.,Argo,2021,Flex,F,74957.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0015032-2018-F,001503-2,Fiat,Fiat,CRONOS PRECISION 1.8 16V Flex Mec.,Cronos,2018,Flex,F,56483.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0015032-2019-F,001503-2,Fiat,Fiat,CRONOS PRECISION 1.8 16V Flex Mec.,Cronos,2019,Flex,F,65013.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0034673-2019-F,003467-3,Ford,Ford,Ka 1.5 TITANIUM 12V Flex 5p Aut.,Ka,2019,Flex,F,60055.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0034673-2020-F,003467-3,Ford,Ford,Ka 1.5 TITANIUM 12V Flex 5p Aut.,Ka,2020,Flex,F,63453.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0034509-2018-G,003450-9,Ford,Ford,Fiesta SEL Style 1.0 EcoBoost Aut . 5p,Fiesta,2018,Gasolina,G,56383.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0034509-2019-G,003450-9,Ford,Ford,Fiesta SEL Style 1.0 EcoBoost Aut . 5p,Fiesta,2019,Gasolina,G,59611.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0034550-2019-F,003455-0,Ford,Ford,EcoSport SE Direct 1.5 Flex 5p Aut.,Ecosport,2019,Flex,F,66379.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0034550-2020-F,003455-0,Ford,Ford,EcoSport SE Direct 1.5 Flex 5p Aut.,Ecosport,2020,Flex,F,69529.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0034550-2021-F,003455-0,Ford,Ford,EcoSport SE Direct 1.5 Flex 5p Aut.,Ecosport,2021,Flex,F,73232.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0032620-2002-G,003262-0,Ford,Ford,Focus Ghia Sed. 2.0 16V/2.0 16V Flex Aut,Focus,2002,Gasolina,G,15641.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0032620-2003-G,003262-0,Ford,Ford,Focus Ghia Sed. 2.0 16V/2.0 16V Flex Aut,Focus,2003,Gasolina,G,17319.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0032620-2005-G,003262-0,Ford,Ford,Focus Ghia Sed. 2.0 16V/2.0 16V Flex Aut,Focus,2005,Gasolina,G,20372.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0032620-2007-G,003262-0,Ford,Ford,Focus Ghia Sed. 2.0 16V/2.0 16V Flex Aut,Focus,2007,Gasolina,G,25092.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0032620-2009-G,003262-0,Ford,Ford,Focus Ghia Sed. 2.0 16V/2.0 16V Flex Aut,Focus,2009,Gasolina,G,33441.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0032620-2011-G,003262-0,Ford,Ford,Focus Ghia Sed. 2.0 16V/2.0 16V Flex Aut,Focus,2011,Gasolina,G,39642.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0032999-2005-D,003299-9,Ford,Ford,Ranger XL 3.0 PSE 163cv 4x2 CS TB Diesel,Ranger,2005,Diesel,D,40782.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0032999-2006-D,003299-9,Ford,Ford,Ranger XL 3.0 PSE 163cv 4x2 CS TB Diesel,Ranger,2006,Diesel,D,42891.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0032999-2007-D,003299-9,Ford,Ford,Ranger XL 3.0 PSE 163cv 4x2 CS TB Diesel,Ranger,2007,Diesel,D,46644.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0032999-2009-D,003299-9,Ford,Ford,Ranger XL 3.0 PSE 163cv 4x2 CS TB Diesel,Ranger,2009,Diesel,D,51079.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0032999-2010-D,003299-9,Ford,Ford,Ranger XL 3.0 PSE 163cv 4x2 CS TB Diesel,Ranger,2010,Diesel,D,54482.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0032999-2012-D,003299-9,Ford,Ford,Ranger XL 3.0 PSE 163cv 4x2 CS TB Diesel,Ranger,2012,Diesel,D,64399.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0033359-2010-G,003335-9,Ford,Ford,Fusion SEL 2.5 16V 173cv Aut.,Fusion,2010,Gasolina,G,39679.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0033359-2011-G,003335-9,Ford,Ford,Fusion SEL 2.5 16V 173cv Aut.,Fusion,2011,Gasolina,G,40671.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0033359-2012-G,003335-9,Ford,Ford,Fusion SEL 2.5 16V 173cv Aut.,Fusion,2012,Gasolina,G,44751.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0034789-2021-G,003478-9,Ford,Ford,TERRITORY Titanium 1.5 GTDi EcoBo. Aut.,Territory,2021,Gasolina,G,108594.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0034789-2022-G,003478-9,Ford,Ford,TERRITORY Titanium 1.5 GTDi EcoBo. Aut.,Territory,2022,Gasolina,G,115509.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0034789-2023-G,003478-9,Ford,Ford,TERRITORY Titanium 1.5 GTDi EcoBo. Aut.,Territory,2023,Gasolina,G,127393.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0034789-2024-G,003478-9,Ford,Ford,TERRITORY Titanium 1.5 GTDi EcoBo. Aut.,Territory,2024,Gasolina,G,154256.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0034789-2025-G,003478-9,Ford,Ford,TERRITORY Titanium 1.5 GTDi EcoBo. Aut.,Territory,2025,Gasolina,G,160083.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0034789-2026-G,003478-9,Ford,Ford,TERRITORY Titanium 1.5 GTDi EcoBo. Aut.,Territory,2026,Gasolina,G,176371.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0034150-2015-F,003415-0,Ford,Ford,Ka+ Sedan 1.5 SEL 16V Flex 4p,Ka+,2015,Flex,F,40012.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0034150-2016-F,003415-0,Ford,Ford,Ka+ Sedan 1.5 SEL 16V Flex 4p,Ka+,2016,Flex,F,41132.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0034150-2017-F,003415-0,Ford,Ford,Ka+ Sedan 1.5 SEL 16V Flex 4p,Ka+,2017,Flex,F,43482.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0034150-2018-F,003415-0,Ford,Ford,Ka+ Sedan 1.5 SEL 16V Flex 4p,Ka+,2018,Flex,F,45052.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0033235-2008-F,003323-5,Ford,Ford,Fiesta TRAIL 1.6 8V Flex 5p,Fiesta,2008,Flex,F,21889.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0033235-2009-F,003323-5,Ford,Ford,Fiesta TRAIL 1.6 8V Flex 5p,Fiesta,2009,Flex,F,25433.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0033235-2010-F,003323-5,Ford,Ford,Fiesta TRAIL 1.6 8V Flex 5p,Fiesta,2010,Flex,F,30419.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0033308-2009-F,003330-8,Ford,Ford,EcoSport XLT FREESTYLE 2.0 Flex 16V 5p,Ecosport,2009,Flex,F,35842.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0033308-2010-F,003330-8,Ford,Ford,EcoSport XLT FREESTYLE 2.0 Flex 16V 5p,Ecosport,2010,Flex,F,40302.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0033308-2011-F,003330-8,Ford,Ford,EcoSport XLT FREESTYLE 2.0 Flex 16V 5p,Ecosport,2011,Flex,F,41635.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0033308-2012-F,003330-8,Ford,Ford,EcoSport XLT FREESTYLE 2.0 Flex 16V 5p,Ecosport,2012,Flex,F,43148.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0033464-2010-F,003346-4,Ford,Ford,Focus TITANIUM 2.0 16V Flex 5p Mec.,Focus,2010,Flex,F,29206.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0033464-2011-F,003346-4,Ford,Ford,Focus TITANIUM 2.0 16V Flex 5p Mec.,Focus,2011,Flex,F,37594.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0033464-2012-F,003346-4,Ford,Ford,Focus TITANIUM 2.0 16V Flex 5p Mec.,Focus,2012,Flex,F,40280.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0033464-2013-F,003346-4,Ford,Ford,Focus TITANIUM 2.0 16V Flex 5p Mec.,Focus,2013,Flex,F,44127.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0032638-2003-D,003263-8,Ford,Ford,Ranger XLT Limit./L.Cent. 2.8 CD TB Dies,Ranger,2003,Diesel,D,45631.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0032638-2004-D,003263-8,Ford,Ford,Ranger XLT Limit./L.Cent. 2.8 CD TB Dies,Ranger,2004,Diesel,D,50586.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0032638-2005-D,003263-8,Ford,Ford,Ranger XLT Limit./L.Cent. 2.8 CD TB Dies,Ranger,2005,Diesel,D,56003.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0151203-2015-F,015120-3,Hyundai,Hyundai,HB20S  Impress 1.6 Flex 16V Aut.,Hb20S,2015,Flex,F,52344.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0152560-2027-F,015256-0,Hyundai,Hyundai,Creta N Line 1.6 TB 12V Flex Aut.,Creta,2027,Flex,F,180998.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0150622-2005-G,015062-2,Hyundai,Hyundai,Tucson 2.7 MPFI 24V 175cv Aut.,Tucson,2005,Gasolina,G,26995.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0150622-2006-G,015062-2,Hyundai,Hyundai,Tucson 2.7 MPFI 24V 175cv Aut.,Tucson,2006,Gasolina,G,31931.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0150622-2007-G,015062-2,Hyundai,Hyundai,Tucson 2.7 MPFI 24V 175cv Aut.,Tucson,2007,Gasolina,G,35329.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0150622-2008-G,015062-2,Hyundai,Hyundai,Tucson 2.7 MPFI 24V 175cv Aut.,Tucson,2008,Gasolina,G,36360.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0150622-2009-G,015062-2,Hyundai,Hyundai,Tucson 2.7 MPFI 24V 175cv Aut.,Tucson,2009,Gasolina,G,37904.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0150622-2010-G,015062-2,Hyundai,Hyundai,Tucson 2.7 MPFI 24V 175cv Aut.,Tucson,2010,Gasolina,G,39950.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0150851-2012-F,015085-1,Hyundai,Hyundai,ix35 2.0 16V 2WD Flex Mec.,Ix35,2012,Flex,F,61602.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0150851-2013-F,015085-1,Hyundai,Hyundai,ix35 2.0 16V 2WD Flex Mec.,Ix35,2013,Flex,F,63277.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0150851-2014-F,015085-1,Hyundai,Hyundai,ix35 2.0 16V 2WD Flex Mec.,Ix35,2014,Flex,F,68338.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0150800-2012-G,015080-0,Hyundai,Hyundai,Elantra GLS 1.8 16V Mec.,Elantra,2012,Gasolina,G,57857.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0150690-2007-G,015069-0,Hyundai,Hyundai,AZERA GLS 3.3 V6 24V 4p Aut.,Azera,2007,Gasolina,G,32879.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0150690-2008-G,015069-0,Hyundai,Hyundai,AZERA GLS 3.3 V6 24V 4p Aut.,Azera,2008,Gasolina,G,37850.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0150690-2009-G,015069-0,Hyundai,Hyundai,AZERA GLS 3.3 V6 24V 4p Aut.,Azera,2009,Gasolina,G,38797.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0150690-2010-G,015069-0,Hyundai,Hyundai,AZERA GLS 3.3 V6 24V 4p Aut.,Azera,2010,Gasolina,G,40194.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0150690-2011-G,015069-0,Hyundai,Hyundai,AZERA GLS 3.3 V6 24V 4p Aut.,Azera,2011,Gasolina,G,46043.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0150517-2001-G,015051-7,Hyundai,Hyundai,Santa Fe GLS 2.7 V6 4x4TipTronic,Santa Fe,2001,Gasolina,G,21278.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0150517-2003-G,015051-7,Hyundai,Hyundai,Santa Fe GLS 2.7 V6 4x4TipTronic,Santa Fe,2003,Gasolina,G,22356.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0150517-2005-G,015051-7,Hyundai,Hyundai,Santa Fe GLS 2.7 V6 4x4TipTronic,Santa Fe,2005,Gasolina,G,24303.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0150517-2007-G,015051-7,Hyundai,Hyundai,Santa Fe GLS 2.7 V6 4x4TipTronic,Santa Fe,2007,Gasolina,G,33994.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0150517-2009-G,015051-7,Hyundai,Hyundai,Santa Fe GLS 2.7 V6 4x4TipTronic,Santa Fe,2009,Gasolina,G,41142.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0150517-2011-G,015051-7,Hyundai,Hyundai,Santa Fe GLS 2.7 V6 4x4TipTronic,Santa Fe,2011,Gasolina,G,46757.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0151866-2020-F,015186-6,Hyundai,Hyundai,HB20X Vision 1.6 Flex 16V Mec.,Hb20X,2020,Flex,F,69971.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0151866-2021-F,015186-6,Hyundai,Hyundai,HB20X Vision 1.6 Flex 16V Mec.,Hb20X,2021,Flex,F,71721.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0151866-2022-F,015186-6,Hyundai,Hyundai,HB20X Vision 1.6 Flex 16V Mec.,Hb20X,2022,Flex,F,73515.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0152013-2022-F,015201-3,Hyundai,Hyundai,Creta Ultimate 2.0 16V Flex Aut.,Creta,2022,Flex,F,119994.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0152013-2023-F,015201-3,Hyundai,Hyundai,Creta Ultimate 2.0 16V Flex Aut.,Creta,2023,Flex,F,124845.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0152013-2024-F,015201-3,Hyundai,Hyundai,Creta Ultimate 2.0 16V Flex Aut.,Creta,2024,Flex,F,133862.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0152013-2025-F,015201-3,Hyundai,Hyundai,Creta Ultimate 2.0 16V Flex Aut.,Creta,2025,Flex,F,137467.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0151521-2018-G,015152-1,Hyundai,Hyundai,Tucson Limited 1.6 Turbo 16V Aut.,Tucson,2018,Gasolina,G,89464.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0151521-2019-G,015152-1,Hyundai,Hyundai,Tucson Limited 1.6 Turbo 16V Aut.,Tucson,2019,Gasolina,G,95178.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0151521-2020-G,015152-1,Hyundai,Hyundai,Tucson Limited 1.6 Turbo 16V Aut.,Tucson,2020,Gasolina,G,105666.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0151521-2022-G,015152-1,Hyundai,Hyundai,Tucson Limited 1.6 Turbo 16V Aut.,Tucson,2022,Gasolina,G,111016.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0151521-2023-G,015152-1,Hyundai,Hyundai,Tucson Limited 1.6 Turbo 16V Aut.,Tucson,2023,Gasolina,G,136998.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0151521-2025-G,015152-1,Hyundai,Hyundai,Tucson Limited 1.6 Turbo 16V Aut.,Tucson,2025,Gasolina,G,158489.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0150860-2012-F,015086-0,Hyundai,Hyundai,ix35 GLS 2.0 16V 2WD Flex Aut.,Ix35,2012,Flex,F,63206.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0150860-2013-F,015086-0,Hyundai,Hyundai,ix35 GLS 2.0 16V 2WD Flex Aut.,Ix35,2013,Flex,F,64787.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0150860-2015-F,015086-0,Hyundai,Hyundai,ix35 GLS 2.0 16V 2WD Flex Aut.,Ix35,2015,Flex,F,70458.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0150860-2016-F,015086-0,Hyundai,Hyundai,ix35 GLS 2.0 16V 2WD Flex Aut.,Ix35,2016,Flex,F,74111.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0150860-2018-F,015086-0,Hyundai,Hyundai,ix35 GLS 2.0 16V 2WD Flex Aut.,Ix35,2018,Flex,F,85105.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0150860-2021-F,015086-0,Hyundai,Hyundai,ix35 GLS 2.0 16V 2WD Flex Aut.,Ix35,2021,Flex,F,99759.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0150169-1996-G,015016-9,Hyundai,Hyundai,Elantra Wagon 1.8 16V,Elantra,1996,Gasolina,G,6184.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0150169-1997-G,015016-9,Hyundai,Hyundai,Elantra Wagon 1.8 16V,Elantra,1997,Gasolina,G,7030.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0150169-1998-G,015016-9,Hyundai,Hyundai,Elantra Wagon 1.8 16V,Elantra,1998,Gasolina,G,7498.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0021814-2020-F,002181-4,Toyota,Toyota,Corolla GLi 2.0 16V Flex Aut.,Corolla,2020,Flex,F,104384.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0021814-2021-F,002181-4,Toyota,Toyota,Corolla GLi 2.0 16V Flex Aut.,Corolla,2021,Flex,F,106994.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0021814-2022-F,002181-4,Toyota,Toyota,Corolla GLi 2.0 16V Flex Aut.,Corolla,2022,Flex,F,110741.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0021814-2023-F,002181-4,Toyota,Toyota,Corolla GLi 2.0 16V Flex Aut.,Corolla,2023,Flex,F,116526.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0021814-2024-F,002181-4,Toyota,Toyota,Corolla GLi 2.0 16V Flex Aut.,Corolla,2024,Flex,F,119588.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0021814-2026-F,002181-4,Toyota,Toyota,Corolla GLi 2.0 16V Flex Aut.,Corolla,2026,Flex,F,144681.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0021865-2020-F,002186-5,Toyota,Toyota,YARIS XL Live Sedan 1.5 Flex 16V 4p Aut.,Yaris,2020,Flex,F,76135.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0021865-2021-F,002186-5,Toyota,Toyota,YARIS XL Live Sedan 1.5 Flex 16V 4p Aut.,Yaris,2021,Flex,F,78039.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0021865-2022-F,002186-5,Toyota,Toyota,YARIS XL Live Sedan 1.5 Flex 16V 4p Aut.,Yaris,2022,Flex,F,79990.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0022101-2022-D,002210-1,Toyota,Toyota,Hilux CD SRX Limited 4x4 2.8 TDI Die.Aut,Hilux,2022,Diesel,D,251032.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0022101-2023-D,002210-1,Toyota,Toyota,Hilux CD SRX Limited 4x4 2.8 TDI Die.Aut,Hilux,2023,Diesel,D,257916.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0021644-2019-F,002164-4,Toyota,Toyota,ETIOS X Plus Sedan 1.5 Flex 16V 4p Aut.,Etios,2019,Flex,F,64036.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0021644-2020-F,002164-4,Toyota,Toyota,ETIOS X Plus Sedan 1.5 Flex 16V 4p Aut.,Etios,2020,Flex,F,65637.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0021644-2021-F,002164-4,Toyota,Toyota,ETIOS X Plus Sedan 1.5 Flex 16V 4p Aut.,Etios,2021,Flex,F,70968.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0021067-2009-G,002106-7,Toyota,Toyota,Hilux SW4 SR 4x2 2.7/2.7 Flex 16V Mec.,Hilux,2009,Gasolina,G,88245.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0021067-2010-G,002106-7,Toyota,Toyota,Hilux SW4 SR 4x2 2.7/2.7 Flex 16V Mec.,Hilux,2010,Gasolina,G,90452.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0021067-2012-G,002106-7,Toyota,Toyota,Hilux SW4 SR 4x2 2.7/2.7 Flex 16V Mec.,Hilux,2012,Gasolina,G,95032.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0021067-2013-G,002106-7,Toyota,Toyota,Hilux SW4 SR 4x2 2.7/2.7 Flex 16V Mec.,Hilux,2013,Gasolina,G,97408.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0021067-2015-G,002106-7,Toyota,Toyota,Hilux SW4 SR 4x2 2.7/2.7 Flex 16V Mec.,Hilux,2015,Gasolina,G,107675.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0021067-2018-G,002106-7,Toyota,Toyota,Hilux SW4 SR 4x2 2.7/2.7 Flex 16V Mec.,Hilux,2018,Gasolina,G,163414.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0020974-2006-G,002097-4,Toyota,Toyota,RAV4 2.4 4x4 16V 170cv Aut.,Rav4,2006,Gasolina,G,44102.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0020974-2007-G,002097-4,Toyota,Toyota,RAV4 2.4 4x4 16V 170cv Aut.,Rav4,2007,Gasolina,G,45205.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0020974-2008-G,002097-4,Toyota,Toyota,RAV4 2.4 4x4 16V 170cv Aut.,Rav4,2008,Gasolina,G,50768.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0020974-2009-G,002097-4,Toyota,Toyota,RAV4 2.4 4x4 16V 170cv Aut.,Rav4,2009,Gasolina,G,52038.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0020974-2010-G,002097-4,Toyota,Toyota,RAV4 2.4 4x4 16V 170cv Aut.,Rav4,2010,Gasolina,G,53339.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0020974-2012-G,002097-4,Toyota,Toyota,RAV4 2.4 4x4 16V 170cv Aut.,Rav4,2012,Gasolina,G,62241.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0021156-2013-F,002115-6,Toyota,Toyota,Corolla XRS 2.0 Flex 16V Aut.,Corolla,2013,Flex,F,66220.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0021156-2014-F,002115-6,Toyota,Toyota,Corolla XRS 2.0 Flex 16V Aut.,Corolla,2014,Flex,F,68753.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0021156-2018-F,002115-6,Toyota,Toyota,Corolla XRS 2.0 Flex 16V Aut.,Corolla,2018,Flex,F,97647.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0021156-2019-F,002115-6,Toyota,Toyota,Corolla XRS 2.0 Flex 16V Aut.,Corolla,2019,Flex,F,100089.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0021695-2019-F,002169-5,Toyota,Toyota,YARIS XS Sedan 1.5 Flex 16V 4p Aut.,Yaris,2019,Flex,F,76687.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0021695-2020-F,002169-5,Toyota,Toyota,YARIS XS Sedan 1.5 Flex 16V 4p Aut.,Yaris,2020,Flex,F,78898.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0021695-2023-F,002169-5,Toyota,Toyota,YARIS XS Sedan 1.5 Flex 16V 4p Aut.,Yaris,2023,Flex,F,87820.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0021695-2024-F,002169-5,Toyota,Toyota,YARIS XS Sedan 1.5 Flex 16V 4p Aut.,Yaris,2024,Flex,F,94434.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0021695-2025-F,002169-5,Toyota,Toyota,YARIS XS Sedan 1.5 Flex 16V 4p Aut.,Yaris,2025,Flex,F,99466.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0022144-2024-D,002214-4,Toyota,Toyota,Hilux SW4 SRX Plat. 4x4 2.8 TB Die. Aut.,Hilux,2024,Diesel,D,317173.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0022144-2025-D,002214-4,Toyota,Toyota,Hilux SW4 SRX Plat. 4x4 2.8 TB Die. Aut.,Hilux,2025,Diesel,D,343058.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0022144-2026-D,002214-4,Toyota,Toyota,Hilux SW4 SRX Plat. 4x4 2.8 TB Die. Aut.,Hilux,2026,Diesel,D,358186.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0021261-2013-F,002126-1,Toyota,Toyota,ETIOS XS Sedan1.5 Flex 16V 4p Mec.,Etios,2013,Flex,F,38691.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0021261-2014-F,002126-1,Toyota,Toyota,ETIOS XS Sedan1.5 Flex 16V 4p Mec.,Etios,2014,Flex,F,41487.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0021261-2015-F,002126-1,Toyota,Toyota,ETIOS XS Sedan1.5 Flex 16V 4p Mec.,Etios,2015,Flex,F,43793.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0021261-2016-F,002126-1,Toyota,Toyota,ETIOS XS Sedan1.5 Flex 16V 4p Mec.,Etios,2016,Flex,F,47499.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0021261-2017-F,002126-1,Toyota,Toyota,ETIOS XS Sedan1.5 Flex 16V 4p Mec.,Etios,2017,Flex,F,55771.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0021261-2018-F,002126-1,Toyota,Toyota,ETIOS XS Sedan1.5 Flex 16V 4p Mec.,Etios,2018,Flex,F,58127.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0021660-2019-D,002166-0,Toyota,Toyota,Hilux SW4 SRX Diamo. 4x4 2.8 TB Die Aut.,Hilux,2019,Diesel,D,236672.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0021660-2020-D,002166-0,Toyota,Toyota,Hilux SW4 SRX Diamo. 4x4 2.8 TB Die Aut.,Hilux,2020,Diesel,D,245954.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0022179-2024-H,002217-9,Toyota,Toyota,RAV4 2.5 XSE 4x4 Aut. (Híbrido),Rav4,2024,Híbrido,H,271375.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0022179-2026-H,002217-9,Toyota,Toyota,RAV4 2.5 XSE 4x4 Aut. (Híbrido),Rav4,2026,Híbrido,H,359041.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0140902-2017-F,014090-2,Honda,Honda,Civic Sedan EXL 2.0 Flex 16V Aut.4p,Civic,2017,Flex,F,100542.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0140902-2018-F,014090-2,Honda,Honda,Civic Sedan EXL 2.0 Flex 16V Aut.4p,Civic,2018,Flex,F,104766.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0140902-2019-F,014090-2,Honda,Honda,Civic Sedan EXL 2.0 Flex 16V Aut.4p,Civic,2019,Flex,F,111826.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0140902-2020-F,014090-2,Honda,Honda,Civic Sedan EXL 2.0 Flex 16V Aut.4p,Civic,2020,Flex,F,118323.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0140902-2021-F,014090-2,Honda,Honda,Civic Sedan EXL 2.0 Flex 16V Aut.4p,Civic,2021,Flex,F,124505.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0140880-2016-F,014088-0,Honda,Honda,HR-V EXL 1.8 Flexone 16V 5p Aut.,Hr-V,2016,Flex,F,83889.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0140880-2017-F,014088-0,Honda,Honda,HR-V EXL 1.8 Flexone 16V 5p Aut.,Hr-V,2017,Flex,F,87782.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0140880-2018-F,014088-0,Honda,Honda,HR-V EXL 1.8 Flexone 16V 5p Aut.,Hr-V,2018,Flex,F,89977.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0140880-2019-F,014088-0,Honda,Honda,HR-V EXL 1.8 Flexone 16V 5p Aut.,Hr-V,2019,Flex,F,100694.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0140880-2020-F,014088-0,Honda,Honda,HR-V EXL 1.8 Flexone 16V 5p Aut.,Hr-V,2020,Flex,F,104223.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0140880-2021-F,014088-0,Honda,Honda,HR-V EXL 1.8 Flexone 16V 5p Aut.,Hr-V,2021,Flex,F,110913.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0140600-2010-F,014060-0,Honda,Honda,CITY Sedan EX 1.5 Flex 16V 4p Mec.,City,2010,Flex,F,42688.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0140600-2011-F,014060-0,Honda,Honda,CITY Sedan EX 1.5 Flex 16V 4p Mec.,City,2011,Flex,F,45192.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0140600-2012-F,014060-0,Honda,Honda,CITY Sedan EX 1.5 Flex 16V 4p Mec.,City,2012,Flex,F,46322.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0140600-2013-F,014060-0,Honda,Honda,CITY Sedan EX 1.5 Flex 16V 4p Mec.,City,2013,Flex,F,54516.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0140562-2009-F,014056-2,Honda,Honda,Fit EXL 1.5 Flex/Flexone 16V 5p Aut,Fit,2009,Flex,F,44263.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0140562-2011-F,014056-2,Honda,Honda,Fit EXL 1.5 Flex/Flexone 16V 5p Aut,Fit,2011,Flex,F,48445.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0140562-2013-F,014056-2,Honda,Honda,Fit EXL 1.5 Flex/Flexone 16V 5p Aut,Fit,2013,Flex,F,56125.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0140562-2016-F,014056-2,Honda,Honda,Fit EXL 1.5 Flex/Flexone 16V 5p Aut,Fit,2016,Flex,F,67961.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0140562-2018-F,014056-2,Honda,Honda,Fit EXL 1.5 Flex/Flexone 16V 5p Aut,Fit,2018,Flex,F,78893.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0140562-2021-F,014056-2,Honda,Honda,Fit EXL 1.5 Flex/Flexone 16V 5p Aut,Fit,2021,Flex,F,87570.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0140953-2018-F,014095-3,Honda,Honda,WR-V EXL 1.5 Flexone 16V 5p Aut.,Wr-V,2018,Flex,F,79317.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0140953-2019-F,014095-3,Honda,Honda,WR-V EXL 1.5 Flexone 16V 5p Aut.,Wr-V,2019,Flex,F,83801.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0140953-2020-F,014095-3,Honda,Honda,WR-V EXL 1.5 Flexone 16V 5p Aut.,Wr-V,2020,Flex,F,86782.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0140953-2021-F,014095-3,Honda,Honda,WR-V EXL 1.5 Flexone 16V 5p Aut.,Wr-V,2021,Flex,F,90636.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0140953-2026-F,014095-3,Honda,Honda,WR-V EXL 1.5 Flexone 16V 5p Aut.,Wr-V,2026,Flex,F,138917.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0140953-2027-F,014095-3,Honda,Honda,WR-V EXL 1.5 Flexone 16V 5p Aut.,Wr-V,2027,Flex,F,143232.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0140767-2013-F,014076-7,Honda,Honda,CR-V EXL 2.0 Flexone 16V 2WD Aut.,Cr-V,2013,Flex,F,76488.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0140767-2014-F,014076-7,Honda,Honda,CR-V EXL 2.0 Flexone 16V 2WD Aut.,Cr-V,2014,Flex,F,80894.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0141135-2023-G,014113-5,Honda,Honda,Civic Type-R 2.0 Turbo 16V,Civic,2023,Gasolina,G,338772.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0141135-2024-G,014113-5,Honda,Honda,Civic Type-R 2.0 Turbo 16V,Civic,2024,Gasolina,G,380070.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0141135-2025-G,014113-5,Honda,Honda,Civic Type-R 2.0 Turbo 16V,Civic,2025,Gasolina,G,397700.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0140961-2017-F,014096-1,Honda,Honda,HR-V Touring 1.8 Flexone 16V 5p Aut.,Hr-V,2017,Flex,F,91525.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0140961-2018-F,014096-1,Honda,Honda,HR-V Touring 1.8 Flexone 16V 5p Aut.,Hr-V,2018,Flex,F,93814.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0141062-2022-F,014106-2,Honda,Honda,CITY Sedan Touring 1.5 Flex 16V 4p Aut.,City,2022,Flex,F,99347.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0141062-2023-F,014106-2,Honda,Honda,CITY Sedan Touring 1.5 Flex 16V 4p Aut.,City,2023,Flex,F,105856.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0141062-2024-F,014106-2,Honda,Honda,CITY Sedan Touring 1.5 Flex 16V 4p Aut.,City,2024,Flex,F,114563.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0141062-2025-F,014106-2,Honda,Honda,CITY Sedan Touring 1.5 Flex 16V 4p Aut.,City,2025,Flex,F,126339.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0141062-2026-F,014106-2,Honda,Honda,CITY Sedan Touring 1.5 Flex 16V 4p Aut.,City,2026,Flex,F,133420.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0141062-2027-F,014106-2,Honda,Honda,CITY Sedan Touring 1.5 Flex 16V 4p Aut.,City,2027,Flex,F,141525.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0140724-2013-F,014072-4,Honda,Honda,Fit Twist 1.5 Flex 16V 5p Mec.,Fit,2013,Flex,F,52372.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0140724-2014-F,014072-4,Honda,Honda,Fit Twist 1.5 Flex 16V 5p Mec.,Fit,2014,Flex,F,58412.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0141046-2021-F,014104-6,Honda,Honda,WR-V LX 1.5 Flexone 16V 5p Aut.,Wr-V,2021,Flex,F,83457.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0141178-2024-H,014117-8,Honda,Honda,CR-V Touring 2.0 16V AWD Aut.(Híbrido),Cr-V,2024,Híbrido,H,237011.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0141178-2025-H,014117-8,Honda,Honda,CR-V Touring 2.0 16V AWD Aut.(Híbrido),Cr-V,2025,Híbrido,H,282877.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0141178-2026-H,014117-8,Honda,Honda,CR-V Touring 2.0 16V AWD Aut.(Híbrido),Cr-V,2026,Híbrido,H,316744.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0170550-2018-F,017055-0,Jeep,Jeep,Renegade Night Eagle 1.8 4x2  Flex Aut.,Renegade,2018,Flex,F,69231.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0170607-2018-D,017060-7,Jeep,Jeep,COMPASS Night Eagle 2.0 4x4 TB Dies. Aut,Compass,2018,Diesel,D,91478.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0170933-2023-F,017093-3,Jeep,Jeep,Commander Longitude T270 1.3 TB Flex Aut,Commander,2023,Flex,F,137237.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0170933-2024-F,017093-3,Jeep,Jeep,Commander Longitude T270 1.3 TB Flex Aut,Commander,2024,Flex,F,147125.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0170933-2025-F,017093-3,Jeep,Jeep,Commander Longitude T270 1.3 TB Flex Aut,Commander,2025,Flex,F,152475.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0170933-2026-F,017093-3,Jeep,Jeep,Commander Longitude T270 1.3 TB Flex Aut,Commander,2026,Flex,F,168720.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0170933-2027-F,017093-3,Jeep,Jeep,Commander Longitude T270 1.3 TB Flex Aut,Commander,2027,Flex,F,174260.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0170496-2016-G,017049-6,Jeep,Jeep,Wrangler Unlimited 75 Anos 3.6 V6 284cv,Wrangler,2016,Gasolina,G,225774.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0170100-1998-G,017010-0,Jeep,Jeep,Cherokee Rubicon 4.0 V6 4x4,Cherokee,1998,Gasolina,G,51283.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0171018-2025-F,017101-8,Jeep,Jeep,Renegade Willys T270 1.3 TB 4x4 Flex Aut,Renegade,2025,Flex,F,137330.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0171018-2026-F,017101-8,Jeep,Jeep,Renegade Willys T270 1.3 TB 4x4 Flex Aut,Renegade,2026,Flex,F,147606.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0171018-2027-F,017101-8,Jeep,Jeep,Renegade Willys T270 1.3 TB 4x4 Flex Aut,Renegade,2027,Flex,F,153287.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0170780-2022-D,017078-0,Jeep,Jeep,COMPASS TRAILHAWK TD350 2.0 4x4 Die. Aut,Compass,2022,Diesel,D,129199.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0170780-2023-D,017078-0,Jeep,Jeep,COMPASS TRAILHAWK TD350 2.0 4x4 Die. Aut,Compass,2023,Diesel,D,143412.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0170780-2024-D,017078-0,Jeep,Jeep,COMPASS TRAILHAWK TD350 2.0 4x4 Die. Aut,Compass,2024,Diesel,D,153148.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0171093-2027-H,017109-3,Jeep,Jeep,Commander Overland T270 1.3 Turbo Aut.,Commander,2027,Híbrido,H,250120.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0170232-2009-G,017023-2,Jeep,Jeep,Wrangler Unlimited Sport 3.8 V6 199cv,Wrangler,2009,Gasolina,G,145626.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0170232-2010-G,017023-2,Jeep,Jeep,Wrangler Unlimited Sport 3.8 V6 199cv,Wrangler,2010,Gasolina,G,155780.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0170232-2011-G,017023-2,Jeep,Jeep,Wrangler Unlimited Sport 3.8 V6 199cv,Wrangler,2011,Gasolina,G,178940.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0170399-2014-G,017039-9,Jeep,Jeep,Cherokee Trailhawk 3.2 4x4 V6 Aut.,Cherokee,2014,Gasolina,G,92361.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0170399-2015-G,017039-9,Jeep,Jeep,Cherokee Trailhawk 3.2 4x4 V6 Aut.,Cherokee,2015,Gasolina,G,95088.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0130362-2014-G,013036-2,Dodge,Dodge,JOURNEY RT 3.6 AWD V6 Aut.,Journey,2014,Gasolina,G,56568.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0130362-2015-G,013036-2,Dodge,Dodge,JOURNEY RT 3.6 AWD V6 Aut.,Journey,2015,Gasolina,G,63423.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0130362-2016-G,013036-2,Dodge,Dodge,JOURNEY RT 3.6 AWD V6 Aut.,Journey,2016,Gasolina,G,65009.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0130265-2005-D,013026-5,Dodge,Dodge,Ram 2500 TROPIVAN 5.9 SLT TDI 4x4 Dies.,Ram,2005,Diesel,D,124787.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0130265-2006-D,013026-5,Dodge,Dodge,Ram 2500 TROPIVAN 5.9 SLT TDI 4x4 Dies.,Ram,2006,Diesel,D,127907.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0130265-2007-D,013026-5,Dodge,Dodge,Ram 2500 TROPIVAN 5.9 SLT TDI 4x4 Dies.,Ram,2007,Diesel,D,134626.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0130265-2008-D,013026-5,Dodge,Dodge,Ram 2500 TROPIVAN 5.9 SLT TDI 4x4 Dies.,Ram,2008,Diesel,D,137992.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0130265-2009-D,013026-5,Dodge,Dodge,Ram 2500 TROPIVAN 5.9 SLT TDI 4x4 Dies.,Ram,2009,Diesel,D,152765.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0130265-2010-D,013026-5,Dodge,Dodge,Ram 2500 TROPIVAN 5.9 SLT TDI 4x4 Dies.,Ram,2010,Diesel,D,158613.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0130320-2012-G,013032-0,Dodge,Dodge,JOURNEY SXT 3.6 V6 Aut.,Journey,2012,Gasolina,G,46637.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0130320-2013-G,013032-0,Dodge,Dodge,JOURNEY SXT 3.6 V6 Aut.,Journey,2013,Gasolina,G,47803.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0130320-2014-G,013032-0,Dodge,Dodge,JOURNEY SXT 3.6 V6 Aut.,Journey,2014,Gasolina,G,51196.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0130320-2015-G,013032-0,Dodge,Dodge,JOURNEY SXT 3.6 V6 Aut.,Journey,2015,Gasolina,G,53719.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0130010-1995-G,013001-0,Dodge,Dodge,Ram Sport 5.9 V8,Ram,1995,Gasolina,G,29196.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0130010-1996-G,013001-0,Dodge,Dodge,Ram Sport 5.9 V8,Ram,1996,Gasolina,G,29926.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0130010-1998-G,013001-0,Dodge,Dodge,Ram Sport 5.9 V8,Ram,1998,Gasolina,G,31802.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0130010-1999-G,013001-0,Dodge,Dodge,Ram Sport 5.9 V8,Ram,1999,Gasolina,G,32730.0,novembro de 2026,fipe.parallelum.com.br/api/v2
+FIPE-0130010-2001-G,013001-0,Dodge,Dodge,Ram Sport 5.9 V8,Ram,2001,Gasolina,G,38809.0,novembro de 2026,fipe.parallelum.com.br/api/v2

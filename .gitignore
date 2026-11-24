@@ -1,0 +1,32 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment & secrets
+.env
+.env.*
+*.key
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Local SQLite validation artifact & temp files
+*.db
+*.sqlite
+*.sqlite3
+*.log
+*.tmp
+
+# OS artifacts
+.DS_Store
+Thumbs.db
